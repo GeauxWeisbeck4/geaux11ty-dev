@@ -1,0 +1,21 @@
+{
+  "title": "Geaux11ty",
+  "url": "https://geaux11ty.dev",
+  "language": "en",
+  "description": "My website all about the static site generator, Eleventy.",
+  "feed": {
+    "subtitle": "Learn all about the best static site generator, 11ty.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://geaux11ty.dev/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@icloud.com",
+    "url": "https://geaux11ty.dev/about"
+  }
+}
